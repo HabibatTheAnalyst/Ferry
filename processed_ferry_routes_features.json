@@ -4,7 +4,7 @@
     {
       "type": "Feature",
       "properties": {
-        "terminal_id": "76",
+        "terminal_id": 76,
         "route_name": "Sandfill - Ibeshe",
         "Ferry_Stops_List": "76,13",
         "Ferry_Route_ID": 8
@@ -123,7 +123,7 @@
     {
       "type": "Feature",
       "properties": {
-        "terminal_id": "13",
+        "terminal_id": 13,
         "route_name": "Sandfill - Ibeshe",
         "Ferry_Stops_List": "76,13",
         "Ferry_Route_ID": 8
@@ -242,7 +242,7 @@
     {
       "type": "Feature",
       "properties": {
-        "terminal_id": "76",
+        "terminal_id": 76,
         "route_name": "Sandfill - Baiyeku",
         "Ferry_Stops_List": "76,19",
         "Ferry_Route_ID": 9
@@ -371,7 +371,7 @@
     {
       "type": "Feature",
       "properties": {
-        "terminal_id": "19",
+        "terminal_id": 19,
         "route_name": "Sandfill - Baiyeku",
         "Ferry_Stops_List": "76,19",
         "Ferry_Route_ID": 9
@@ -500,7 +500,7 @@
     {
       "type": "Feature",
       "properties": {
-        "terminal_id": "17",
+        "terminal_id": 17,
         "route_name": "Marina/CMS - Ikorodu",
         "Ferry_Stops_List": "17,20",
         "Ferry_Route_ID": 10
@@ -574,7 +574,7 @@
     {
       "type": "Feature",
       "properties": {
-        "terminal_id": "20",
+        "terminal_id": 20,
         "route_name": "Marina/CMS - Ikorodu",
         "Ferry_Stops_List": "17,20",
         "Ferry_Route_ID": 10
@@ -648,7 +648,7 @@
     {
       "type": "Feature",
       "properties": {
-        "terminal_id": "15",
+        "terminal_id": 15,
         "route_name": "Liverpool(Apapa) - Marina/CMS - Ebute Ero",
         "Ferry_Stops_List": "15,17,16",
         "Ferry_Route_ID": 11
@@ -732,7 +732,7 @@
     {
       "type": "Feature",
       "properties": {
-        "terminal_id": "17",
+        "terminal_id": 17,
         "route_name": "Liverpool(Apapa) - Marina/CMS - Ebute Ero",
         "Ferry_Stops_List": "15,17,16",
         "Ferry_Route_ID": 11
@@ -816,7 +816,7 @@
     {
       "type": "Feature",
       "properties": {
-        "terminal_id": "16",
+        "terminal_id": 16,
         "route_name": "Liverpool(Apapa) - Marina/CMS - Ebute Ero",
         "Ferry_Stops_List": "15,17,16",
         "Ferry_Route_ID": 11
@@ -900,7 +900,7 @@
     {
       "type": "Feature",
       "properties": {
-        "terminal_id": "71",
+        "terminal_id": 71,
         "route_name": "Alex Apapa/Allens Unit Jetty - Sagbokoji",
         "Ferry_Stops_List": "71,42",
         "Ferry_Route_ID": 12
@@ -999,7 +999,7 @@
     {
       "type": "Feature",
       "properties": {
-        "terminal_id": "42",
+        "terminal_id": 42,
         "route_name": "Alex Apapa/Allens Unit Jetty - Sagbokoji",
         "Ferry_Stops_List": "71,42",
         "Ferry_Route_ID": 12
@@ -1098,7 +1098,7 @@
     {
       "type": "Feature",
       "properties": {
-        "terminal_id": "71",
+        "terminal_id": 71,
         "route_name": "Alex Apapa/Allens Unit Jetty - KabaKaba",
         "Ferry_Stops_List": "71,39",
         "Ferry_Route_ID": 13
@@ -1202,7 +1202,7 @@
     {
       "type": "Feature",
       "properties": {
-        "terminal_id": "39",
+        "terminal_id": 39,
         "route_name": "Alex Apapa/Allens Unit Jetty - KabaKaba",
         "Ferry_Stops_List": "71,39",
         "Ferry_Route_ID": 13
@@ -1306,7 +1306,7 @@
     {
       "type": "Feature",
       "properties": {
-        "terminal_id": "76",
+        "terminal_id": 76,
         "route_name": "Sandfill - Ikorodu",
         "Ferry_Stops_List": "76,20",
         "Ferry_Route_ID": 14
@@ -1440,7 +1440,7 @@
     {
       "type": "Feature",
       "properties": {
-        "terminal_id": "20",
+        "terminal_id": 20,
         "route_name": "Sandfill - Ikorodu",
         "Ferry_Stops_List": "76,20",
         "Ferry_Route_ID": 14
@@ -1574,7 +1574,7 @@
     {
       "type": "Feature",
       "properties": {
-        "terminal_id": "15",
+        "terminal_id": 15,
         "route_name": "Liverpool(Apapa) - Sagbokoji - Ito Agan - Tamaro",
         "Ferry_Stops_List": "15,42,37,38",
         "Ferry_Route_ID": 15
@@ -1703,7 +1703,7 @@
     {
       "type": "Feature",
       "properties": {
-        "terminal_id": "42",
+        "terminal_id": 42,
         "route_name": "Liverpool(Apapa) - Sagbokoji - Ito Agan - Tamaro",
         "Ferry_Stops_List": "15,42,37,38",
         "Ferry_Route_ID": 15
@@ -1832,7 +1832,7 @@
     {
       "type": "Feature",
       "properties": {
-        "terminal_id": "37",
+        "terminal_id": 37,
         "route_name": "Liverpool(Apapa) - Sagbokoji - Ito Agan - Tamaro",
         "Ferry_Stops_List": "15,42,37,38",
         "Ferry_Route_ID": 15
@@ -1961,7 +1961,7 @@
     {
       "type": "Feature",
       "properties": {
-        "terminal_id": "38",
+        "terminal_id": 38,
         "route_name": "Liverpool(Apapa) - Sagbokoji - Ito Agan - Tamaro",
         "Ferry_Stops_List": "15,42,37,38",
         "Ferry_Route_ID": 15
@@ -2090,7 +2090,7 @@
     {
       "type": "Feature",
       "properties": {
-        "terminal_id": "17",
+        "terminal_id": 17,
         "route_name": "Marina/CMS - Ogogoro - Sagbokoji",
         "Ferry_Stops_List": "17,38,42",
         "Ferry_Route_ID": 16
@@ -2149,7 +2149,7 @@
     {
       "type": "Feature",
       "properties": {
-        "terminal_id": "38",
+        "terminal_id": 38,
         "route_name": "Marina/CMS - Ogogoro - Sagbokoji",
         "Ferry_Stops_List": "17,38,42",
         "Ferry_Route_ID": 16
@@ -2208,7 +2208,7 @@
     {
       "type": "Feature",
       "properties": {
-        "terminal_id": "42",
+        "terminal_id": 42,
         "route_name": "Marina/CMS - Ogogoro - Sagbokoji",
         "Ferry_Stops_List": "17,38,42",
         "Ferry_Route_ID": 16
@@ -2267,7 +2267,7 @@
     {
       "type": "Feature",
       "properties": {
-        "terminal_id": "18",
+        "terminal_id": 18,
         "route_name": "Five Cowries - Ikorodu",
         "Ferry_Stops_List": "18,20",
         "Ferry_Route_ID": 17
@@ -2411,7 +2411,7 @@
     {
       "type": "Feature",
       "properties": {
-        "terminal_id": "20",
+        "terminal_id": 20,
         "route_name": "Five Cowries - Ikorodu",
         "Ferry_Stops_List": "18,20",
         "Ferry_Route_ID": 17
@@ -2555,7 +2555,7 @@
     {
       "type": "Feature",
       "properties": {
-        "terminal_id": "18",
+        "terminal_id": 18,
         "route_name": "Five Cowries - Ibeshe",
         "Ferry_Stops_List": "18,13",
         "Ferry_Route_ID": 18
@@ -2699,7 +2699,7 @@
     {
       "type": "Feature",
       "properties": {
-        "terminal_id": "13",
+        "terminal_id": 13,
         "route_name": "Five Cowries - Ibeshe",
         "Ferry_Stops_List": "18,13",
         "Ferry_Route_ID": 18
@@ -2843,7 +2843,7 @@
     {
       "type": "Feature",
       "properties": {
-        "terminal_id": "18",
+        "terminal_id": 18,
         "route_name": "Five Cowries - Offin",
         "Ferry_Stops_List": "18,12",
         "Ferry_Route_ID": 19
@@ -3012,7 +3012,7 @@
     {
       "type": "Feature",
       "properties": {
-        "terminal_id": "12",
+        "terminal_id": 12,
         "route_name": "Five Cowries - Offin",
         "Ferry_Stops_List": "18,12",
         "Ferry_Route_ID": 19
@@ -3181,7 +3181,7 @@
     {
       "type": "Feature",
       "properties": {
-        "terminal_id": "18",
+        "terminal_id": 18,
         "route_name": "Five Cowries - Baiyeku",
         "Ferry_Stops_List": "18,19",
         "Ferry_Route_ID": 20
@@ -3330,7 +3330,7 @@
     {
       "type": "Feature",
       "properties": {
-        "terminal_id": "19",
+        "terminal_id": 19,
         "route_name": "Five Cowries - Baiyeku",
         "Ferry_Stops_List": "18,19",
         "Ferry_Route_ID": 20
@@ -3479,7 +3479,7 @@
     {
       "type": "Feature",
       "properties": {
-        "terminal_id": "18",
+        "terminal_id": 18,
         "route_name": "Five Cowries - Ijede",
         "Ferry_Stops_List": "18,30",
         "Ferry_Route_ID": 21
@@ -3633,7 +3633,7 @@
     {
       "type": "Feature",
       "properties": {
-        "terminal_id": "30",
+        "terminal_id": 30,
         "route_name": "Five Cowries - Ijede",
         "Ferry_Stops_List": "18,30",
         "Ferry_Route_ID": 21
@@ -3787,7 +3787,7 @@
     {
       "type": "Feature",
       "properties": {
-        "terminal_id": "20",
+        "terminal_id": 20,
         "route_name": "Ikorodu - Lekki(Alluvia) - Sandfill - Five Cowries",
         "Ferry_Stops_List": "20,68,76,18",
         "Ferry_Route_ID": 22
@@ -3911,7 +3911,7 @@
     {
       "type": "Feature",
       "properties": {
-        "terminal_id": "68",
+        "terminal_id": 68,
         "route_name": "Ikorodu - Lekki(Alluvia) - Sandfill - Five Cowries",
         "Ferry_Stops_List": "20,68,76,18",
         "Ferry_Route_ID": 22
@@ -4035,7 +4035,7 @@
     {
       "type": "Feature",
       "properties": {
-        "terminal_id": "76",
+        "terminal_id": 76,
         "route_name": "Ikorodu - Lekki(Alluvia) - Sandfill - Five Cowries",
         "Ferry_Stops_List": "20,68,76,18",
         "Ferry_Route_ID": 22
@@ -4159,7 +4159,7 @@
     {
       "type": "Feature",
       "properties": {
-        "terminal_id": "18",
+        "terminal_id": 18,
         "route_name": "Ikorodu - Lekki(Alluvia) - Sandfill - Five Cowries",
         "Ferry_Stops_List": "20,68,76,18",
         "Ferry_Route_ID": 22
@@ -4283,7 +4283,7 @@
     {
       "type": "Feature",
       "properties": {
-        "terminal_id": "12",
+        "terminal_id": 12,
         "route_name": "Offin - Ebute Ero - Marina/CMS",
         "Ferry_Stops_List": "12,16,17",
         "Ferry_Route_ID": 23
@@ -4352,7 +4352,7 @@
     {
       "type": "Feature",
       "properties": {
-        "terminal_id": "16",
+        "terminal_id": 16,
         "route_name": "Offin - Ebute Ero - Marina/CMS",
         "Ferry_Stops_List": "12,16,17",
         "Ferry_Route_ID": 23
@@ -4421,7 +4421,7 @@
     {
       "type": "Feature",
       "properties": {
-        "terminal_id": "17",
+        "terminal_id": 17,
         "route_name": "Offin - Ebute Ero - Marina/CMS",
         "Ferry_Stops_List": "12,16,17",
         "Ferry_Route_ID": 23
@@ -4490,7 +4490,7 @@
     {
       "type": "Feature",
       "properties": {
-        "terminal_id": "12",
+        "terminal_id": 12,
         "route_name": "Offin - Sandfill - Falomo",
         "Ferry_Stops_List": "12,76,18",
         "Ferry_Route_ID": 24
@@ -4639,7 +4639,7 @@
     {
       "type": "Feature",
       "properties": {
-        "terminal_id": "76",
+        "terminal_id": 76,
         "route_name": "Offin - Sandfill - Falomo",
         "Ferry_Stops_List": "12,76,18",
         "Ferry_Route_ID": 24
@@ -4788,7 +4788,7 @@
     {
       "type": "Feature",
       "properties": {
-        "terminal_id": "18",
+        "terminal_id": 18,
         "route_name": "Offin - Sandfill - Falomo",
         "Ferry_Stops_List": "12,76,18",
         "Ferry_Route_ID": 24
@@ -4937,7 +4937,7 @@
     {
       "type": "Feature",
       "properties": {
-        "terminal_id": "76",
+        "terminal_id": 76,
         "route_name": "Sandfill - Offin",
         "Ferry_Stops_List": "76,12",
         "Ferry_Route_ID": 25
@@ -5036,7 +5036,7 @@
     {
       "type": "Feature",
       "properties": {
-        "terminal_id": "12",
+        "terminal_id": 12,
         "route_name": "Sandfill - Offin",
         "Ferry_Stops_List": "76,12",
         "Ferry_Route_ID": 25
@@ -5135,7 +5135,7 @@
     {
       "type": "Feature",
       "properties": {
-        "terminal_id": "76",
+        "terminal_id": 76,
         "route_name": "Sandfill - Ijede",
         "Ferry_Stops_List": "76,30",
         "Ferry_Route_ID": 26
@@ -5239,7 +5239,7 @@
     {
       "type": "Feature",
       "properties": {
-        "terminal_id": "30",
+        "terminal_id": 30,
         "route_name": "Sandfill - Ijede",
         "Ferry_Stops_List": "76,30",
         "Ferry_Route_ID": 26
@@ -5343,7 +5343,7 @@
     {
       "type": "Feature",
       "properties": {
-        "terminal_id": "10",
+        "terminal_id": 10,
         "route_name": "Apapa flour mill - Ikorodu",
         "Ferry_Stops_List": "10,20",
         "Ferry_Route_ID": 27
@@ -5397,7 +5397,7 @@
     {
       "type": "Feature",
       "properties": {
-        "terminal_id": "20",
+        "terminal_id": 20,
         "route_name": "Apapa flour mill - Ikorodu",
         "Ferry_Stops_List": "10,20",
         "Ferry_Route_ID": 27
@@ -5451,7 +5451,7 @@
     {
       "type": "Feature",
       "properties": {
-        "terminal_id": "13",
+        "terminal_id": 13,
         "route_name": "Ibeshe - Lekki(Alluvia) - Sandfill - Falomo - Boat Club - Marina/CMS",
         "Ferry_Stops_List": "13,68,76,18,35,17",
         "Ferry_Route_ID": 28
@@ -5660,7 +5660,7 @@
     {
       "type": "Feature",
       "properties": {
-        "terminal_id": "68",
+        "terminal_id": 68,
         "route_name": "Ibeshe - Lekki(Alluvia) - Sandfill - Falomo - Boat Club - Marina/CMS",
         "Ferry_Stops_List": "13,68,76,18,35,17",
         "Ferry_Route_ID": 28
@@ -5869,7 +5869,7 @@
     {
       "type": "Feature",
       "properties": {
-        "terminal_id": "76",
+        "terminal_id": 76,
         "route_name": "Ibeshe - Lekki(Alluvia) - Sandfill - Falomo - Boat Club - Marina/CMS",
         "Ferry_Stops_List": "13,68,76,18,35,17",
         "Ferry_Route_ID": 28
@@ -6078,7 +6078,7 @@
     {
       "type": "Feature",
       "properties": {
-        "terminal_id": "18",
+        "terminal_id": 18,
         "route_name": "Ibeshe - Lekki(Alluvia) - Sandfill - Falomo - Boat Club - Marina/CMS",
         "Ferry_Stops_List": "13,68,76,18,35,17",
         "Ferry_Route_ID": 28
@@ -6287,7 +6287,7 @@
     {
       "type": "Feature",
       "properties": {
-        "terminal_id": "35",
+        "terminal_id": 35,
         "route_name": "Ibeshe - Lekki(Alluvia) - Sandfill - Falomo - Boat Club - Marina/CMS",
         "Ferry_Stops_List": "13,68,76,18,35,17",
         "Ferry_Route_ID": 28
@@ -6496,7 +6496,7 @@
     {
       "type": "Feature",
       "properties": {
-        "terminal_id": "17",
+        "terminal_id": 17,
         "route_name": "Ibeshe - Lekki(Alluvia) - Sandfill - Falomo - Boat Club - Marina/CMS",
         "Ferry_Stops_List": "13,68,76,18,35,17",
         "Ferry_Route_ID": 28
@@ -6705,7 +6705,7 @@
     {
       "type": "Feature",
       "properties": {
-        "terminal_id": "31",
+        "terminal_id": 31,
         "route_name": "Oke Ira Nla(Ajah) - Baiyeku",
         "Ferry_Stops_List": "31,19",
         "Ferry_Route_ID": 29
@@ -6874,7 +6874,7 @@
     {
       "type": "Feature",
       "properties": {
-        "terminal_id": "19",
+        "terminal_id": 19,
         "route_name": "Oke Ira Nla(Ajah) - Baiyeku",
         "Ferry_Stops_List": "31,19",
         "Ferry_Route_ID": 29
@@ -7043,7 +7043,7 @@
     {
       "type": "Feature",
       "properties": {
-        "terminal_id": "71",
+        "terminal_id": 71,
         "route_name": "Alex Apapa/Allens Unit Jetty - Manager",
         "Ferry_Stops_List": "71,69",
         "Ferry_Route_ID": 30
@@ -7142,7 +7142,7 @@
     {
       "type": "Feature",
       "properties": {
-        "terminal_id": "69",
+        "terminal_id": 69,
         "route_name": "Alex Apapa/Allens Unit Jetty - Manager",
         "Ferry_Stops_List": "71,69",
         "Ferry_Route_ID": 30
@@ -7241,7 +7241,7 @@
     {
       "type": "Feature",
       "properties": {
-        "terminal_id": "70",
+        "terminal_id": 70,
         "route_name": "Coconut Landing - Igbologun",
         "Ferry_Stops_List": "70,11",
         "Ferry_Route_ID": 31
@@ -7560,7 +7560,7 @@
     {
       "type": "Feature",
       "properties": {
-        "terminal_id": "11",
+        "terminal_id": 11,
         "route_name": "Coconut Landing - Igbologun",
         "Ferry_Stops_List": "70,11",
         "Ferry_Route_ID": 31
@@ -7879,7 +7879,7 @@
     {
       "type": "Feature",
       "properties": {
-        "terminal_id": "75",
+        "terminal_id": 75,
         "route_name": "Ketu - Agboyi 1 -  Agboyi 2 - Agoyi 3 - Oko Agbon",
         "Ferry_Stops_List": "75,79,67,66",
         "Ferry_Route_ID": 32
@@ -8133,7 +8133,7 @@
     {
       "type": "Feature",
       "properties": {
-        "terminal_id": "79",
+        "terminal_id": 79,
         "route_name": "Ketu - Agboyi 1 -  Agboyi 2 - Agoyi 3 - Oko Agbon",
         "Ferry_Stops_List": "75,79,67,66",
         "Ferry_Route_ID": 32
@@ -8387,7 +8387,7 @@
     {
       "type": "Feature",
       "properties": {
-        "terminal_id": "67",
+        "terminal_id": 67,
         "route_name": "Ketu - Agboyi 1 -  Agboyi 2 - Agoyi 3 - Oko Agbon",
         "Ferry_Stops_List": "75,79,67,66",
         "Ferry_Route_ID": 32
@@ -8641,7 +8641,7 @@
     {
       "type": "Feature",
       "properties": {
-        "terminal_id": "66",
+        "terminal_id": 66,
         "route_name": "Ketu - Agboyi 1 -  Agboyi 2 - Agoyi 3 - Oko Agbon",
         "Ferry_Stops_List": "75,79,67,66",
         "Ferry_Route_ID": 32
@@ -8895,7 +8895,7 @@
     {
       "type": "Feature",
       "properties": {
-        "terminal_id": "14",
+        "terminal_id": 14,
         "route_name": "(Not active) Mile 2 - Marina/CMS",
         "Ferry_Stops_List": "14,17",
         "Ferry_Route_ID": 33
@@ -9009,7 +9009,7 @@
     {
       "type": "Feature",
       "properties": {
-        "terminal_id": "17",
+        "terminal_id": 17,
         "route_name": "(Not active) Mile 2 - Marina/CMS",
         "Ferry_Stops_List": "14,17",
         "Ferry_Route_ID": 33
@@ -9123,7 +9123,7 @@
     {
       "type": "Feature",
       "properties": {
-        "terminal_id": "30",
+        "terminal_id": 30,
         "route_name": "Ijede - Badore",
         "Ferry_Stops_List": "30,34",
         "Ferry_Route_ID": 34
@@ -9152,7 +9152,7 @@
     {
       "type": "Feature",
       "properties": {
-        "terminal_id": "34",
+        "terminal_id": 34,
         "route_name": "Ijede - Badore",
         "Ferry_Stops_List": "30,34",
         "Ferry_Route_ID": 34
@@ -9181,7 +9181,7 @@
     {
       "type": "Feature",
       "properties": {
-        "terminal_id": "32",
+        "terminal_id": 32,
         "route_name": "Ebute Ero - Ikorodu",
         "Ferry_Stops_List": "32,20",
         "Ferry_Route_ID": 35
@@ -9235,7 +9235,7 @@
     {
       "type": "Feature",
       "properties": {
-        "terminal_id": "20",
+        "terminal_id": 20,
         "route_name": "Ebute Ero - Ikorodu",
         "Ferry_Stops_List": "32,20",
         "Ferry_Route_ID": 35
@@ -9289,7 +9289,7 @@
     {
       "type": "Feature",
       "properties": {
-        "terminal_id": "15",
+        "terminal_id": 15,
         "route_name": "Liverpool(Apapa) - Ikorodu",
         "Ferry_Stops_List": "15,20",
         "Ferry_Route_ID": 36
@@ -9393,7 +9393,7 @@
     {
       "type": "Feature",
       "properties": {
-        "terminal_id": "20",
+        "terminal_id": 20,
         "route_name": "Liverpool(Apapa) - Ikorodu",
         "Ferry_Stops_List": "15,20",
         "Ferry_Route_ID": 36
@@ -9497,7 +9497,7 @@
     {
       "type": "Feature",
       "properties": {
-        "terminal_id": "17",
+        "terminal_id": 17,
         "route_name": "Marina/CMS - Ikorodu",
         "Ferry_Stops_List": "17,20",
         "Ferry_Route_ID": 37
@@ -9566,7 +9566,7 @@
     {
       "type": "Feature",
       "properties": {
-        "terminal_id": "20",
+        "terminal_id": 20,
         "route_name": "Marina/CMS - Ikorodu",
         "Ferry_Stops_List": "17,20",
         "Ferry_Route_ID": 37
@@ -9635,7 +9635,7 @@
     {
       "type": "Feature",
       "properties": {
-        "terminal_id": "17",
+        "terminal_id": 17,
         "route_name": "Marina/CMS - Liverpool(Apapa)",
         "Ferry_Stops_List": "17,15",
         "Ferry_Route_ID": 38
@@ -9694,7 +9694,7 @@
     {
       "type": "Feature",
       "properties": {
-        "terminal_id": "15",
+        "terminal_id": 15,
         "route_name": "Marina/CMS - Liverpool(Apapa)",
         "Ferry_Stops_List": "17,15",
         "Ferry_Route_ID": 38
@@ -9753,7 +9753,7 @@
     {
       "type": "Feature",
       "properties": {
-        "terminal_id": "10",
+        "terminal_id": 10,
         "route_name": "Apapa flour mill - Marina/CMS",
         "Ferry_Stops_List": "10,17",
         "Ferry_Route_ID": 39
@@ -9777,7 +9777,7 @@
     {
       "type": "Feature",
       "properties": {
-        "terminal_id": "17",
+        "terminal_id": 17,
         "route_name": "Apapa flour mill - Marina/CMS",
         "Ferry_Stops_List": "10,17",
         "Ferry_Route_ID": 39
@@ -9801,7 +9801,7 @@
     {
       "type": "Feature",
       "properties": {
-        "terminal_id": "19",
+        "terminal_id": 19,
         "route_name": "(Not active) Baiyeku - Five Cowries",
         "Ferry_Stops_List": "19,18",
         "Ferry_Route_ID": 40
@@ -9940,7 +9940,7 @@
     {
       "type": "Feature",
       "properties": {
-        "terminal_id": "18",
+        "terminal_id": 18,
         "route_name": "(Not active) Baiyeku - Five Cowries",
         "Ferry_Stops_List": "19,18",
         "Ferry_Route_ID": 40
@@ -10079,7 +10079,7 @@
     {
       "type": "Feature",
       "properties": {
-        "terminal_id": "20",
+        "terminal_id": 20,
         "route_name": "Ikorodu \u2013 Ebute Ero \u2013 Marina/CMS",
         "Ferry_Stops_List": "20,16,17",
         "Ferry_Route_ID": 41
@@ -10148,7 +10148,7 @@
     {
       "type": "Feature",
       "properties": {
-        "terminal_id": "16",
+        "terminal_id": 16,
         "route_name": "Ikorodu \u2013 Ebute Ero \u2013 Marina/CMS",
         "Ferry_Stops_List": "20,16,17",
         "Ferry_Route_ID": 41
@@ -10217,7 +10217,7 @@
     {
       "type": "Feature",
       "properties": {
-        "terminal_id": "17",
+        "terminal_id": 17,
         "route_name": "Ikorodu \u2013 Ebute Ero \u2013 Marina/CMS",
         "Ferry_Stops_List": "20,16,17",
         "Ferry_Route_ID": 41
@@ -10286,7 +10286,7 @@
     {
       "type": "Feature",
       "properties": {
-        "terminal_id": "34",
+        "terminal_id": 34,
         "route_name": "Badore - Addax - Five Cowries",
         "Ferry_Stops_List": "34,76,18",
         "Ferry_Route_ID": 42
@@ -10475,7 +10475,7 @@
     {
       "type": "Feature",
       "properties": {
-        "terminal_id": "76",
+        "terminal_id": 76,
         "route_name": "Badore - Addax - Five Cowries",
         "Ferry_Stops_List": "34,76,18",
         "Ferry_Route_ID": 42
@@ -10664,7 +10664,7 @@
     {
       "type": "Feature",
       "properties": {
-        "terminal_id": "18",
+        "terminal_id": 18,
         "route_name": "Badore - Addax - Five Cowries",
         "Ferry_Stops_List": "34,76,18",
         "Ferry_Route_ID": 42
@@ -10853,7 +10853,7 @@
     {
       "type": "Feature",
       "properties": {
-        "terminal_id": "64",
+        "terminal_id": 64,
         "route_name": "(Not active) Ebute Ojo - Ijegun Egba \u2013 Marina/CMS",
         "Ferry_Stops_List": "64,65,17",
         "Ferry_Route_ID": 43
@@ -10987,7 +10987,7 @@
     {
       "type": "Feature",
       "properties": {
-        "terminal_id": "65",
+        "terminal_id": 65,
         "route_name": "(Not active) Ebute Ojo - Ijegun Egba \u2013 Marina/CMS",
         "Ferry_Stops_List": "64,65,17",
         "Ferry_Route_ID": 43
@@ -11121,7 +11121,7 @@
     {
       "type": "Feature",
       "properties": {
-        "terminal_id": "17",
+        "terminal_id": 17,
         "route_name": "(Not active) Ebute Ojo - Ijegun Egba \u2013 Marina/CMS",
         "Ferry_Stops_List": "64,65,17",
         "Ferry_Route_ID": 43
@@ -11255,7 +11255,7 @@
     {
       "type": "Feature",
       "properties": {
-        "terminal_id": "20",
+        "terminal_id": 20,
         "route_name": "Ikorodu - Sandfill - Five Cowries",
         "Ferry_Stops_List": "20,76,18",
         "Ferry_Route_ID": 44
@@ -11454,7 +11454,7 @@
     {
       "type": "Feature",
       "properties": {
-        "terminal_id": "76",
+        "terminal_id": 76,
         "route_name": "Ikorodu - Sandfill - Five Cowries",
         "Ferry_Stops_List": "20,76,18",
         "Ferry_Route_ID": 44
@@ -11653,7 +11653,7 @@
     {
       "type": "Feature",
       "properties": {
-        "terminal_id": "18",
+        "terminal_id": 18,
         "route_name": "Ikorodu - Sandfill - Five Cowries",
         "Ferry_Stops_List": "20,76,18",
         "Ferry_Route_ID": 44
@@ -11852,7 +11852,7 @@
     {
       "type": "Feature",
       "properties": {
-        "terminal_id": "68",
+        "terminal_id": 68,
         "route_name": "Alluvia - Tarkwa Bay",
         "Ferry_Stops_List": "68,23",
         "Ferry_Route_ID": 45
@@ -11966,7 +11966,7 @@
     {
       "type": "Feature",
       "properties": {
-        "terminal_id": "23",
+        "terminal_id": 23,
         "route_name": "Alluvia - Tarkwa Bay",
         "Ferry_Stops_List": "68,23",
         "Ferry_Route_ID": 45
@@ -12080,7 +12080,7 @@
     {
       "type": "Feature",
       "properties": {
-        "terminal_id": "70",
+        "terminal_id": 70,
         "route_name": "Coconut Landing - Snake Island",
         "Ferry_Stops_List": "70,60",
         "Ferry_Route_ID": 46
@@ -12093,7 +12093,7 @@
     {
       "type": "Feature",
       "properties": {
-        "terminal_id": "60",
+        "terminal_id": 60,
         "route_name": "Coconut Landing - Snake Island",
         "Ferry_Stops_List": "70,60",
         "Ferry_Route_ID": 46
